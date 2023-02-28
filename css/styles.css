@@ -6600,6 +6600,10 @@ textarea.form-control-lg {
   align-self: stretch;
 }
 
+.redo-margin {
+  margin: 10px;
+}
+
 .visually-hidden,
 .visually-hidden-focusable:not(:focus):not(:focus-within) {
   position: absolute !important;
